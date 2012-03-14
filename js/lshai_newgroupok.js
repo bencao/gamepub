@@ -1,0 +1,15 @@
+$(document).ready(function(){
+	//fadeSuccess("新建生活群组成功。");
+	if($('#newgamegroupok')){
+		if($('#newgamegroupok').val()=="ok")
+			fadeSuccess("游戏群组新建成功，需要等待共创者都审核通过才能使用。");
+		if($('#newgamegroupok').val()=="fail")
+			fadeSuccess("新建游戏群组失败。");
+	}
+	if($('#newlifegroupok')){
+		if($('#newlifegroupok').val()=="ok")
+			fadeSuccess("生活群组创建成功，您可以在本页面为本群组邀请更多成员。");
+		if($('#newlifegroupok').val()=="fail")
+			fadeSuccess("新建生活群组失败。");
+	}
+});

@@ -1,0 +1,13 @@
+<h2 class="help">帮助 > 登录与注册</h2>
+<div class="section">
+<div class="text">
+<h1>1. 如何注册GamePub？</h1>
+<p>您可以通过GamePub首页（www.gamepub.cn）的注册按钮，或者点击<a href="/register">注册</a>。</p>
+<h1>2. 如何登录GamePub？</h1>
+<p>您可以通过GamePub首页（www.gamepub.cn）的登录界面，或者点击<a href="/main/login">登录</a>。在未登录导致访问受限时，您也可以在弹出的登录窗口中登录。</p>
+<h1>3. 无法登录GamePub的解决办法？</h1>    
+<p>(1) 如果您无法登录，可能是您的用户名或密码丢失，您可以尝试<a href="/main/recoverpassword">找回密码</a>。</p>
+<p>(2) 如果您曾经注册过，但是注册后三个月内没再登录过，您的帐号可能已被系统视为无效帐号自动清除，请重新注册。</p>
+<p>(3) 当您无法打开GamePub首页时，请先删除您使用浏览器的历史记录和Cookies后关闭浏览器，再次打开浏览器后尝试再次登录GamePub，如果仍然没有办法登录，请您马上联系官方客服。</p>
+</div>
+</div>

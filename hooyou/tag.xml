@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tags type="array">
+ <game id="999" name="其他游戏">
+  <first id="9993" name="交流">
+   <second>技巧</second>
+   <second>PK</second>
+   <second>教程</second>
+   <second>求助</second>
+   <second>攻略</second>
+   <second>副本</second>
+   <second>赚钱</second>
+   <second>任务</second>
+  </first>
+  <first id="9995" name="秀场">
+   <second>玩家靓照</second>
+   <second>玩家作品</second>
+   <second>公会宣传</second>
+   <second>场景展示</second>
+   <second>属性展示</second>
+   <second>对战展示</second>
+  </first>
+  <first id="9997" name="游戏">
+   <second>游戏新闻</second>
+   <second>游戏公告</second>
+   <second>游戏活动</second>
+   <second>游戏八卦</second>
+   <second>游戏意见</second>
+   <second>下一版本</second>
+   <second>游戏职业</second>
+   <second>游戏心情</second>
+   <second>游戏历程</second> 
+  </first>
+ </game>
+</tags>

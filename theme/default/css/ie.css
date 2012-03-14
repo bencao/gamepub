@@ -1,0 +1,101 @@
+﻿.clearfix {display:inline-block;}
+* html .clearfix {height:1%;}
+fieldset {*padding-top:0;}
+#main_nav li a.game:link, #main_nav li a.game:visited {padding:11px 0 11px 21px;}
+#notice_form {position:relative;z-index:1001;}
+#notice_filter_new {position:relative;z-index:1000;}
+#notice_filter_new form {z-index:1000;}
+#notices {position:relative;z-index:999;}
+#notices ol.discussions li.create {z-index:10;}
+#notices ol.discussions li {z-index:9;}
+#message_form {padding-top:5px;}
+#widgets div.sub_info span,
+#public_widgets div.sub_info span {line-height:16px;}
+
+#header_outter_wrap,
+#header_inner_wrap,
+#header,
+#main_nav,
+#main_nav ul.more {z-index:11;}
+#wrap {z-index:10;}
+#contents {z-index:10;}
+#widgets {z-index:9;}
+#w_nav {position:relative;z-index:8;}
+#widgets div.owner_info .profile p {padding:3px 0 0;}
+#public_widgets div.owner_info .profile a.progress {top:4px;}
+
+#notices li.notice, li.user, 
+dl.discussions dd li.notice,
+dl.discussions dd li.notice div.bar,
+#public_contents dl.recommendpeople dd li.user,
+#notices ol.discussions,
+#notices ol.discussions li,
+.dialog_body dl.super_fav dd {zoom:1;}
+#widgets div.group_info dl.detail dt span.fold, #widgets div.group_info dl.detail dt span.unfold {top:2px;}
+#gameboard a.open, #gameboard a.close {margin-top:1px;}
+#gameboard ul li.switch {height:16px;}
+#message_form div.replyto {height:30px;line-height:30px;}
+#message_form div.replyto label {vertical-align:4px;}
+
+#public_widgets dl.search dd input.text {margin-top:1px;margin-bottom:1px;}
+#settings_design dd ul {padding:0;}
+#settings_design dd ul li {margin:8px;}
+#public_contents dl.recommendpeople a.toggle,
+#public_widgets dl.people dt a.toggle, #public_widgets dl.hot_board dt a.toggle, 
+#public_widgets dl.hot_cloud dt a.toggle  {line-height:16px;}
+#register dl dd.verify span,
+#register dl dd.sex span {left:220px;}
+#register dl dd.game span {left:260px;}
+#register dl dd.verify a.reload {left:247px;}
+#register dl dd.verify input.text70 {left:5px;}
+#register dl dd.game {z-index:2;}
+#register_wrap {z-index:1;}
+.dialog_body dl.super_fav,.dialog_body dl.super_fav dd {z-index:1;}
+
+#register #game_more {left:5px;}
+#big_zone_more {left:88px;}
+#server_more {left:171px;}
+#feedback input.submit {top:20px;}
+
+#notices li.notice div.info span.source {padding-left:0;zoom:1;}
+
+div.minidiscuss form.mydiscussion,
+dl.discussions dt,
+div.miniplayground dl.info dl.uploader dd,
+dl.discussions dd li.notice,
+dl.minihot dd li,
+div.miniwrap dl.minilist dd li,
+div.miniwrap dl.minilist dd li p.misc,
+dl.answers li.notice,
+#public_contents dl.videos dt,
+#public_contents dl.photos dt,
+#public_contents dl.musics dt,
+#public_contents dl.videos dd,
+#public_contents dl.photos dd,
+#public_contents dl.musics dd {zoom:1;}
+#public_widgets dl.groups dt,
+#public_widgets dl.questions dt {zoom:1;}
+#public_widgets dl.questions dd li,
+#public_widgets dl.groups dd li {zoom:1;position:relative;}
+#public_widgets dl.questions dd li span {position:absolute;bottom:2px;right:0;}
+
+#other_wrap div.contents div.filter {height:26px;padding-top:0;}
+#other_wrap div.contents div.filter label {vertical-align:4px;}
+#other_wrap div.contents div.filter a.say {top:12px;}
+
+#waiter {z-index:90;}
+#floatbar {z-index:90;}
+#floatbar ul li dl.mbox dt {line-height:15px;padding:6px 8px;margin-top:-1px;}
+#floatbar ul li dl.mbox dt em {top:5px;}
+#floatbar ul li form.search input.text {margin:0;height:14px;width:90px;}
+#fileQueue,.filequeue {font-size:1px;}
+
+#homepage_wrap h2,
+#users a.more:link,
+#users a.more:visited {line-height:14px;}
+
+#hot dl dd ul {width:256px;}
+#hot dl dd ul a:link, #hot dl dd ul a:visited {margin-right:3px;}
+
+#public_contents form.editing dl dt {padding:3px 20px 1px;}
+#public_contents form.editing input.radio {margin:0 -3px;}

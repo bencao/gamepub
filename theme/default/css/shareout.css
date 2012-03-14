@@ -1,0 +1,81 @@
+/* reset.css */
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, code, del, dfn, em, img, q, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, dialog, figure, footer, header, hgroup, nav, section {margin:0;padding:0;border:0;font-weight:inherit;font-style:inherit;font-size:100%;font-family:inherit;vertical-align:baseline;}
+article, aside, dialog, figure, footer, header, hgroup, nav, section {display:block;}
+body {line-height:1.5;}
+a img {border:none;}
+
+html {font-size:100.01%;}
+body {font-size:12px;font-family:Arial,Helvetica,sans-serif,"宋体";}
+h1, h2, h3, h4, h5, h6 {font-weight:normal;font-size:1em;}
+p {margin:0;}
+
+ul, ol {margin:0;padding-left:0;}
+ul {list-style-type:disc;}
+dl {margin:0;}
+dl dt {font-weight:normal;}
+dd {margin-left:0;}
+
+.clearfix:after{content:"\0020";display:block;height:0;clear:both;visibility:hidden;overflow:hidden;}
+.clearfix {display:block;*display:inline-block;}
+
+li {list-style:none;}
+legend {display:none;}
+fieldset {border:0;}
+input.radio, input.checkbox {vertical-align:-2px;}
+input.password,input.text {background-color:#fff;border:1px solid #ccc;}
+body {text-align:left;word-wrap:break-word;word-break:normal;}
+body {color:#444;background:#d0d6f5;}
+a:link, a:visited {color:#b8510c;text-decoration:none;}
+a:hover {text-decoration:underline;}
+
+#share_wrap {background:url(../i/sharebg.png) no-repeat;width:573px;height:473px;margin:0 auto;position:relative;color:#666;}
+a.lg {display:block;width:218px;height:76px;position:absolute;top:3px;left:0;z-index:2;}
+a.reg,
+div.extra input.submit {background:url(../i/sharebtn.png);display:block;padding:0;margin:0;width:143px;height:37px;position:absolute;color:#fff;line-height:37px;text-align:center;font-size:14px;font-weight:bold;}
+a.reg {top:380px;left:18px;}
+a.reg:hover {text-decoration:none;}
+#notice_form {margin-left:171px;padding:100px 15px 0;position:relative;}
+h2 {position:absolute;top:100px;right:228px;width:120px;font-size:14px;}
+span.remain {position:absolute;top:96px;right:30px;}
+span.remain em {font-family:georgia;font-weight:bold;font-size:16px;padding:0 4px;}
+textarea {position:absolute;top:130px;right:24px;border:0;width:354px;height:64px;padding:3px;margin:0;font-size:14px;_width:352px;}
+dl.photo {position:absolute;top:201px;right:24px;width:360px;height:162px;}
+dl.photo dt {padding-left:30px;line-height:26px;height:26px;}
+dl.photo dd ul {margin-top:6px;height:92px;padding:8px 12px;overflow:hidden;}
+dl.photo dd ul li {float:left;width:92px;height:92px;margin:0 10px;_margin:0 7px;}
+dl.photo dd ul li.active {background:#b8510c;}
+dl.photo dd ul li.active a:link,
+dl.photo dd ul li.active a:visited {border-color:#b8510c;}
+dl.photo dd ul li a:link,
+dl.photo dd ul li a:visited {display:block;margin:1px;border:1px solid #ccc;background:#fff;width:88px;height:88px;}
+dl.photo dd ul li img {width:88px;height:88px;}
+dl.photo dd div.op {height:22px;line-height:22px;position:relative;}
+dl.photo dd div.op a.prev {position:absolute;top:0;right:70px;_line-height:16px;}
+dl.photo dd div.op a.next {position:absolute;top:0;right:10px;_line-height:16px;}
+dl.photo dd div.op a.cancel {margin:0 70px 0 10px;}
+div.extra {position:absolute;top:376px;right:23px;width:362px;height:90px;}
+div.extra dl dt {float:left;clear:left;line-height:28px;}
+div.extra dl dd {margin-left:50px;line-height:28px;}
+div.extra dl dd input.text {width:150px;height:16px;margin:0;padding:2px;border:1px solid #ddd;}
+div.extra dl dd a.forget {margin-left:6px;}
+div.extra input.submit {border:0;padding:0;top:3px;right:0;cursor:pointer;}
+
+.dialog_body {padding:16px 16px 8px;cursor:default;}
+.dialog_body p {padding:5px 0;width:365px;line-height:18px;overflow:hidden;}
+.dialog_body p.success,.dialog_body p.fail {font-size:14px;line-height:48px;padding-left:80px;width:285px;text-align:left;}
+.dialog_body p.fail {background:url(../i/dlgwar.jpg) no-repeat scroll 20px 10px;}
+.dialog_body div.op {position:relative;height:24px;padding:15px 0;width:362px;}
+.dialog_body .confirm {position:absolute;top:15px;left:130px;color:#000;background:url(../i/all.png) no-repeat scroll -539px -59px;}
+.dialog_body .cancel {position:absolute;top:15px;left:205px;background:url(../i/all.png) no-repeat scroll -539px -35px;}
+.button60 {display:block;text-align:center;border:0;cursor:pointer;height:24px;line-height:24px;width:60px;}
+a.button60:hover {text-decoration:none;}
+
+#popup_container {font-size: 12px;min-width: 397px;max-width: 397px;background: #FFF;border: solid 1px #CCC;outline:1px solid #fff;}
+#popup_title {font-weight: bold;line-height: 18px;color: #444;padding:3px 12px;margin: 0;background:url(../i/icon.png) repeat-x scroll 0 -2714px;cursor:default;}
+
+h1.blockui_loading {border: solid 1px #CCC;outline:1px solid #fff;background:#fff url(../i/loading.gif) no-repeat scroll 30px 23px;margin:0 auto;width:228px;color:#444;line-height:16px;font-size:16px;padding:30px;border:1px solid #ccc;}
+
+div.success {background:#fff;top:99px;padding-top:109px;margin-left:188px;width:365px;height:180px;position:relative;}
+div.success h1 {font-weight:bold;font-size:20px;text-align:center;}
+div.success p {line-height:20px;text-align:center;}
+div.success a.reg {top:30px;left:110px;color:#fff;position:relative;}}

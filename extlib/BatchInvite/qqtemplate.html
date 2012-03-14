@@ -1,0 +1,64 @@
+<!DOCTYPE html
+PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+       "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="zh_CN" lang="zh_CN">
+	<head>
+		<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+		<meta content="zh-CN" http-equiv="Content-Language"/>
+		<meta content="输入验证码" name="title"/>
+		<title>输入验证码</title>
+		
+		<script type="text/javascript" src="/js/qq_invite.js"></script>
+		<script type="text/javascript">
+			function calcP()
+			{
+				document.form1.starttime.value = (new Date()).valueOf();
+				return true;
+			}
+	
+			function changeimg()
+			{
+				document.getElementById('vfcode').src = '/ajax/getqqverifypic?server_no={_server_no_}&aid=23000101&t=' + Math.random();
+				document.getElementById('vc').focus();
+			}
+		</script>
+	</head>
+	<body>
+	<form name="form1" method="post" action="/main/invitewithpass" onSubmit="return calcP();">
+	  <input name="sid" value="{_sid_}" type="hidden" />
+	  <input name="firstlogin" value="false" type="hidden" />
+	  <input name="starttime" type="hidden" />
+	  <input name="redirecturl" type="hidden" />
+	  <input name="f" value="html" type="hidden" />
+	  <input name="encryp" type="hidden" value="{_pp_}"/>
+	  <input name="ept" type="hidden" value="" />
+	  <input name="delegate_url" value="" type="hidden" />
+	  <input name="s" value="" type="hidden" />
+	  <input name="ts" value="{_ts_}" type="hidden" />
+	  <input name="from" value="" type="hidden" />
+	  <input name="chg" value="" type="hidden" />
+	  <input name="checkisWebLogin" value="12" type="hidden" />
+	  <input name="username" value="{_uin_}" type="hidden" />
+	  <input name="aliastype" value="@qq.com" type="hidden" />
+	  <input name="password" value="{_pp_}" type="hidden" />
+	  <input name="ppp" value="" type="hidden" />
+	  <input name="source" value="qq" type="hidden" />
+	  <input name="server_no" value="{_server_no_}" type="hidden" />
+	  <input name="token" value="{_token_}" type="hidden" />
+	  
+	  <div id="VerifyArea">
+	    <div>
+	      <label for="vc">请输入验证码：</label>
+	      <input id="vc" name="verifycode" value="" maxlength="4" type="text" />
+	    </div>
+	    <div>
+	    <script type="text/javascript">
+	     document.write("<img id='vfcode' src='/ajax/getqqverifypic?server_no={_server_no_}&aid=23000101&t=" + Math.random() + "' style='cursor:pointer;border:1px solid #e4eef9' onclick='changeimg()'>");
+		</script>
+	      <br />
+	      <a href="javascript:changeimg()">看不清楚？&nbsp;换一个</a> </div>
+	  </div>
+	  <input type="submit" value="继续" />
+	</form>
+	</body>
+</html>

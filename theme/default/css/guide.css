@@ -1,0 +1,13 @@
+#gsteps {background:#fff;color:#484848;border:2px solid #e66510;text-align:left;padding:10px 18px;}
+#gsteps h2 {font-size:14px;color:#b8510c;padding:5px 0;}
+#gsteps h3 {font-size:14px;padding:3px 0;}
+#gsteps strong {font-weight:bold;}
+#gsteps ol li {list-style:decimal inside;padding-bottom:4px;}
+#gsteps div.step {position:relative;padding-bottom:24px;_zoom:1;}
+#gsteps a.prev {position:absolute;right:80px;bottom:3px;}
+#gsteps a.next {position:absolute;right:0;bottom:0;}
+#gsteps span.pg {position:absolute;left:0;bottom:3px;}
+#gsteps span.pointer {display:block;position:absolute;}
+#gsteps span.up {background:url(../i/gnarrow.png);width:37px;height:74px;top:-75px;right:30px;}
+#gsteps span.down {background:url(../i/gnarrowd.png);width:37px;height:74px;bottom:-75px;right:60px;}
+#gsteps span.right {background:url(../i/gnarrowr.png);width:74px;height:37px;bottom:35px;right:-78px;}

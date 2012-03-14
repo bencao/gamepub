@@ -1,0 +1,320 @@
+img {-ms-interpolation-mode:bicubic;}
+#contents {_height:1200px;}
+#register_wrap {_height:375px;}
+#public_contents dl.recommendpeople p.bio {_height:48px;}
+#public_contents dl.recommendpeople li.user div.detail dl.notice dd {_height:100px;}
+#public_contents ul.links li {margin-bottom:-3px;}
+#public_contents dl.news {width:97%;}
+#public_contents dl.news dd li {margin-top:-3px;}
+#public_contents dl.news dd {width:100%;height:auto;}
+#public_contents ul.links li.hd {margin-bottom:0;}
+#other_wrap div.contents {_height:750px;}
+#other_wrap div.contents ul.clients li {_height:108px;}
+div.miniwrap dl.minilist dd li {_height:81px;}
+dl.minihot dd li {_height:84px;}
+div.miniplayground dl.info dl.uploader dd {_height:56px;}
+#main_nav li a:link, #main_nav li a:visited,
+#tool_nav li a:link, #tool_nav li a:visited {_float:left;}
+#tool_nav li.first {margin-top:-1px;}
+#wrap {position:relative;left:1px;top:3px;}
+.dialog_body form.addall div.ul_wrap ul {position:relative;}
+#main_nav ul.more li.foot,
+#main_nav ul.more li.head {font-size:1px;}
+#main_nav ul.more li.first {padding-top:3px;background-position:0 -232px;}
+
+#notice_form div.form ul div.insert p.tab a:link, 
+#notice_form div.form ul div.insert p.tab a:visited {_margin-bottom:-1px;}
+#notice_form dl.topic ul.more li.pointer {_top:-6px;}
+#notice_form dl.topic ul.more li {_width:62px;}
+#contents div.mission span.progress {_line-height:6px;_font-size:1px;}
+#contents div.mission span.progress em.text  {_line-height:14px;_top:-5px;}
+#notice_form dl.topic dd {_margin-left:55px;}
+#notice_form div.form input.submit {_width:75px;}
+#message_form {padding-top:8px;}
+#message_form div.form {_margin-top:-2px;}
+#contents div.form_split {_font-size:1px;}
+#notice_filter ul {_width:263px;}
+#notice_filter {_padding-bottom:0;}
+#notice_filter p {_margin-left:4px;}
+#notices ol.discussions li.pointer {_right:30px;}
+
+.filequeue {height:0;}
+div.miniwrap dl.miniupload dd dl dd {zoom:1;margin-left:0;}
+
+#widgets dl.grid-6 dt, #widgets dl.faq dt  {_padding:3px 12px 9px;}
+#widgets dl.grid-6 dd ul {_margin-left:-3px;}
+#widgets a.fold, #widgets a.unfold {_top:3px;}
+#widgets div.group_info dl.detail dt span.fold, #widgets div.group_info dl.detail dt span.unfold {_top:11px;}
+#widgets div.owner_info .profile a.progress,
+#public_widgets div.owner_info .profile a.progress,
+div.qinfo div.profile a.progress {_font-size:1px;}
+#widgets div.group_info div.profile, #gameboard ul {_width:151px;}
+#widgets dl.videos dd li a:link,
+#widgets dl.videos dd li a:visited {height:expression( document.body.clientHeight > 35 ? "36px" : "auto" );}
+div.qinfo div.profile a.progress {top:2px;}
+
+#waiter {_position:absolute;}
+#waiter, #waiter div.sendfaq div.hello {_zoom:1;}
+#floatbar {_position:absolute;_font-size:12px;}
+#floatbar ul {_width:108px;}
+#floatbar ul li.toggle_li {_width:24px;}
+#floatbar ul.expanded {_width:322px;}
+#floatbar ul li {_width:69px;}
+#floatbar ul li.search_li {_width:155px;}
+#floatbar ul.expanded li.toggle_li {_width:25px;}
+
+#floatbar ul li form.search div.text_wrap  {_height:10px;}
+#floatbar ul li dl.mbox dd ul {_background:#fff;}
+#floatbar ul li dl.mbox dd li {_margin:0 3.5px;}
+#floatbar ul li.toexpand_li {_width:82px;}
+
+#public_nav ul.nav a span.new {font-size:1px;}
+
+#fav_nav,#fav_nav div.scroll {_height:24px;}
+#fav_nav div.scroll div.op {_width:100px;}
+#notice_form div.form ul li.insert_emotion div.insert td a:link,
+#notice_form div.form ul li.insert_emotion div.insert td a:visited,
+#fav_nav div.scroll a:link, #fav_nav div.scroll a:visited,
+#widgets dl.grid-1 dd ul li {_zoom:1;}
+#public_contents dl.recommendpeople li.user div.detail,
+#public_contents dl.recommendpeople li.user div.detail dl.notice {_zoom:1;}
+
+div.split {font-size:1px;}
+
+#owner_summary {zoom:1;}
+
+
+#public_contents dl.videos dd div.cont,
+#public_contents dl.photos dd div.cont,
+#public_contents dl.musics dd div.cont {zoom:1;left:-6px;}
+
+
+#public_contents form.mfsearch dl dd p {padding:6px 0;}
+#public_contents dl.mfresult dd ul {padding:13px 20px 0;}
+
+#public_contents form.dealoption label {margin-left:8px;}
+.dialog_body dl.inputs dd {margin-left:0;}
+
+form.qsearch {margin-top:8px;}
+
+#thirdary_nav li {_margin:0 2px -2px 1px;}
+#sub_op ul.op li a.sendmail {_padding:0!important;}
+
+#contents div.invite p {_height:26px;}
+div.invite a.help {_padding-top:2px;}
+div.email_iv  {_height:144px;}
+
+form.settings p input.radio, #contents form.settings dd p input.checkbox {_margin-top:2px;}
+form.settings p label {_padding-top:6px;}
+form.settings p input.radio, #contents form.settings dd p input.checkbox,
+#settings_interest input.radio, #settings_interest input.checkbox,
+#contents form.sync_out_step1 input.checkbox,
+#contents form.sync_out_step2 input.radio,
+#contents form.sync_out_step2 input.checkbox {_vertical-align:-4px;}
+#settings_interest dl dd ul li label,
+#settings_self_design dd label,
+#contents form.sync_out_step1 label,
+#contents form.sync_out_step2 label {_vertical-align:-4px;}
+#settings_design dd ul li img,
+#settings_self_design dd div.bg_panel img {_margin-bottom:-4px;}
+#settings_self_design dd div.bg_panel {_height:90px;}
+
+#settings_self_design dd div.bg_panel input.radio,
+#settings_self_design dd div.bg_panel input.checkbox {_vertical-align:-5px;}
+#self_designs li,#template_designs li {_margin:10px 12px;}
+form.editing dd {_height:24px;}
+#contents div.discussion_detail dl.discussions dt a.report {_right:24px;}
+#contents div.discussion_detail form.mydiscussion p {_padding:8px 0;}
+#contents div.discussion_detail form.mydiscussion input.submit {_top:83px;_right:20px;}
+#contents dl.bind dd dd li form.unbind  {_left:150px;_top:3px;}
+#contents dl.bindings dt {_vertical-align:-4px;}
+
+#public_contents dl.tops dl {_margin:0 6px;}
+
+#public_thirdary_nav li {padding:0 9px;}
+#public_wrap {overflow:visible;}
+#public_contents {_height:750px;}
+#public_contents div.intro_hot ul.op {_right:20px;}
+
+div.miniplayground dl.op dt.title,
+div.miniplayground dl.info dt.title {position:relative;}
+div.miniplayground dl.info,
+div.miniplayground dl.op {height:558px;}
+
+#public_contents h2 {_margin:0 -17px 3px;}
+
+#public_widgets {_margin:0 -15px -9999px 0;}
+
+#other_wrap div.contents form.search p.options input.radio {_vertical-align:3px;}
+#other_wrap div.contents form.search input.submit {_vertical-align:-2px;}
+#other_wrap div.contents div.filter label {_vertical-align:2px;}
+
+.dialog_body input.checkbox {_margin:0;_padding:0;_position:static;_vertical-align:-1px;}
+.dialog_body div.simple_form textarea,
+.dialog_body dl.inputs select,
+.dialog_body dl.inputs textarea {_margin:0;}
+.dialog_body dl.inputs dt,
+.dialog_body dl.inputs dd {_height:24px;}
+.dialog_body div.create_new a:link,
+.dialog_body div.create_new a:visited {_vertical-align:2px;}
+
+#register_wrap input.radio, #register_wrap input.checkbox {_vertical-align:-1px;}
+
+#register dl dd.sex {_position:relative;_left:5px;_top:8px;}
+#register dl dd.verify {_position:relative;_left:5px;_top:0;}
+#register dl dd.sex span {_top:-9px;_left:220px;}
+
+#public_contents dl.recommendpeople li.user div.detail {_margin-right:4.5px;}
+#feedback div.op,
+#apply_vip div.op {_margin-top:20px;}
+#recoverpass div.op {_margin-top:10px;}
+#recoverpass form input.submit {_left:203px;}
+
+#followpeople input.checkbox {_position:static;}
+#feedback dl dd textarea,
+#applyvip dl dd textarea {_margin-left:10px;}
+#tocomplete div.intro div.progress span {_font-size:1px;}
+#register_wrap input.checkbox,#register_wrap input.radio {_margin-right:-4px;}
+#register_wrap label {_margin-left:6px;}
+#register_wrap form.settings p select {_margin:0;}
+#settings_interest input.checkbox {_vertical-align:-5px;}
+
+#form_password_change {_zoom:1;}
+
+div.email_iv form p label {_width:40px;}
+div.email_iv ul.iv_tab li,div.email_iv ul.iv_tab li a:link, div.email_iv ul.iv_tab li a:visited {height:32px;line-height:32px;}
+
+#header {_height:40px;}
+
+#floatbar {_bottom:-1px;}
+
+#register #game_more {_left:10px;}
+#big_zone_more {_left:93px;}
+#server_more {_left:176px;}
+
+#popup_title {_width:375px;}
+
+/* ie6 img fix */
+div.simple_form a.emotion,
+#contents div.discussion_detail form.mydiscussion dt a,
+div.minidiscuss form.mydiscussion dt a,
+#public_widgets dl.people ul li a.subscribe,
+#public_widgets dl.people ul li .subscribed,
+dl.uploader dd .subscribed,
+#public_contents form.editing dl dd label.success,
+#public_contents form.editing dl dd label.error,
+.notice div.bigpicture div.btnbanel a:link,
+.notice div.bigpicture div.btnbanel a:visited,
+#register_wrap div.greet p span.pointer,#register dl dd span.error, #feedback dl dd span.error,
+#register dl dd span.success, #feedback dl dd span.success,
+#apply_vip dl dd span.error,#apply_vip dl dd span.success,
+#followpeople a.help,
+#other_widgets dl.moresearch dd a:link,
+#other_widgets dl.moresearch dd a:visited ,#other_wrap div.filter a.say,
+#public_contents div.public_op a.help,form.editing dl dd a.help,
+form.subscribe input.submit,
+#public_contents dl.grid-3 p.nickname span.private,
+#bubbles ul.op li a:link, #bubbles ul.op li a:visited,
+#main_nav li a:link, #main_nav li a:visited,
+#main_nav li.split,
+div.insert span.pointer,
+#public_contents dl.recommendpeople li.user a.fold,
+#public_contents dl.recommendpeople li.user a.unfold,
+#public_contents dl.recommendpeople li.user div.detail dl.notice dt span.image,
+#contents div.mission p.intro a.help,
+#contents div.mission p.level,#contents div.mission p.point,
+#contents div.mission p.completeness,
+#notices li.notice a.conversation,
+#contents div.discussion_detail a.conversation,
+#notices ol.discussions li.pointer,
+#owner_summary p.nickname span em,
+#owner_summary div.op ul.more li a:link,#owner_summary div.op ul.more li a:visited,
+#users li.user div.op ul.more li a:link,#users li.user div.op ul.more li a:visited,
+#owner_summary div.subscribed,
+div.done, #users li.user p.msg span.pointer,
+#contents h2,#contents div.invite a.help,
+#public_contents dl.tops p.up,#public_contents dl.tops p.down,
+#public_contents dl.tops dl.game dt span.right_top,#public_contents dl.tops dl.game dt span.right_bottom,
+#public_contents div.intro_hot ul.op li a.say,#public_contents div.intro_hot ul.op li a.seemore,
+#tag_nav li a.first,#public_contents h2, div.invite a.help,
+#notice_form dl.topic ul.more li.pointer,
+form.settings label.error,
+#contents div.mission p.point span em,
+div.card div.op a:link,
+div.card div.op a:visited,
+div.card div.op input.submit,
+#floatbar ul li a em.cnt,
+#public_contents div.dealnav a.myproduct,
+#public_contents div.dealnav a.tosell,
+form.newquestion dl.area dd.body dl dt a,
+dl.question dt,
+dl.question span.award,
+#wendas li.wenda div.info span.award,
+div.hot-switch-wrap a.refresh,
+div.player ul li a {_background-image:url(../i/icon_e6.png)!important;}
+
+#floatbar ul li.remind dl.mbox li.rep,
+#floatbar ul li.remind dl.mbox li.mes,
+#floatbar ul li.remind dl.mbox li.dis,
+#floatbar ul li.remind a:link span,
+#floatbar ul li.remind a:visited span,
+#floatbar ul li.remind a.on:link span,
+#floatbar ul li.remind a.on:visited span,
+#floatbar ul li.group a.on:link span,
+#floatbar ul li.group a.on:visited span,
+#floatbar ul li.group a:link span,
+#floatbar ul li.group a:visited span,
+#floatbar ul li.group a.flick:hover span,
+#floatbar ul li a.toexpand:link span,
+#floatbar ul li a.toexpand:visited span,
+#floatbar ul li a.toexpand:hover span,
+#floatbar ul li a.toggle:link span,
+#floatbar ul li a.toggle:visited span,
+#floatbar ul li a.toggle:hover span,
+#floatbar ul.expanded li a.toggle:link span,
+#floatbar ul.expanded li a.toggle:visited span,
+#floatbar ul.expanded li a.toggle:hover span,
+#tocomplete ul.steps li span,#tocomplete ul.steps li,
+#tool_nav li,
+#sub_op ul.op li a:link, #sub_op ul.op li a:visited,
+#owner_summary p.infos span.point em,
+div.qinfo div.profile p.point span em,
+#contents div.makeutheme div.bg,
+#notices ol.discussions li form a.emotion,
+#notice_filter p {_background-image:url(../i/icon_e6.png);}
+#sub_op ul.op li a.sendmail:link, #sub_op ul.op li a.sendmail:visited {_background-image:url(../i/all.png);}
+
+#widgets div.owner_info div.avatar {_background:#999;}
+
+#widgets dl.grid-1 dt, #widgets dl.grid-6 dt, #widgets dl.faq dt, #widgets dl.videos dt {_background-position:-255px -73px;}
+
+#main_nav ul.more a:link, #main_nav ul.more a:visited {background:none!important;}
+#main_nav ul.more a:hover {background:url(../i/all.png) no-repeat scroll -107px -235px!important;}
+#main_nav ul.more li {margin-top:-3px;}
+#main_nav ul.more li.foot {_font-size:1px;background:url(../i/e6/mainnavgamefoot.gif);}
+
+#public_contents div.hofwrap {height:750px;}
+#public_contents div.hofwrap div.uppart {height:700px;}
+#public_contents div.hofwrap dl.star dd,
+#public_contents div.hofwrap dl.star dd div.card {zoom:1;}
+#public_contents dl.recommendpeople dd div.avatar ,
+#register_wrap div.avatar {_padding:3.5px 6.5px 6.5px 3.5px;}
+#public_contents div.intro_hot ul.op li a:link,
+#public_contents div.intro_hot ul.op li a:visited {padding-top:1px;}
+
+#public_widgets dl.people dt,
+#public_widgets dl.hot_board dt,
+#public_widgets dl.hot_cloud dt {background-position:-436px 2px;}
+
+#public_widgets div.owner_info .avatar, #public_widgets dl.people ul li div.avatar {
+	padding:4px 5px 5px 4px;
+}
+
+#widgets div.toolbox div.tbbg {
+	background:none;
+	FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(sizingMethod='scale',src='/theme/default/i/e6/tbbg.png');
+}
+
+div.growlUI {background-image:url(../i/e6/check38.png);}
+
+#public_contents dl.mfresult dd ul li {margin-right:20px;}

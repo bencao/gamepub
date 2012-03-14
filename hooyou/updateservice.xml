@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updateFiles>
+  <file path="tag.xml"  url="http://www.gamepub.cn/hooyou/tag.xml" lastver="1.2.0.0" size="988" needRestart="true" />
+  <file path="whatsnew.txt"  url="http://www.gamepub.cn/hooyou/whatsnew.txt" lastver="1.2.0.0" size="1004" needRestart="true" />
+  <file path="HyResources.dll"  url="http://www.gamepub.cn/hooyou/HyResources.dll" lastver="1.2.0.0" size="864256" needRestart="true" />
+  <file path="HyControls.dll"  url="http://www.gamepub.cn/hooyou/HyControls.dll" lastver="1.2.0.0" size="368640" needRestart="true" />
+  <file path="HyBiz.dll"  url="http://www.gamepub.cn/hooyou/HyBiz.dll" lastver="1.2.0.0" size="172032" needRestart="true" />
+  <file path="HooYou.exe"  url="http://www.gamepub.cn/hooyou/HooYou.exe" lastver="1.2.0.0" size="716800" needRestart="true" />
+  <file path="AutoUpdater.dll" url="http://www.gamepub.cn/hooyou/AutoUpdater.dll" lastver="1.2.0.0" size="32768" needRestart="true" />
+  <file path="LiveUpd.exe"  url="http://www.gamepub.cn/hooyou/LiveUpd.exe" lastver="1.2.0.0" size="31744"  needRestart="true" />
+</updateFiles>

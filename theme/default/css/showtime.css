@@ -1,0 +1,6 @@
+#header_outter_wrap {margin-bottom:40px;}
+body, #wrap {background:#393939;}
+div.stwrap {width:610px;margin:0 -96px;padding:0 192px 0 178px;background:url(../i/videobg.jpg) no-repeat;}
+div.stwrap h2 {font-size:14px;color:#ddd;font-weight:bold;text-align:center;padding-bottom:15px;}
+div.stwrap h3 {font-size:14px;color:#ddd;padding-bottom:10px;}
+div.stwrap div.player {height:496px;}

@@ -1,0 +1,75 @@
+#wrap_mini {width:975px;margin:0 auto 50px;}
+#wrap_mini div.miniplayground {height:555px;padding:5px;background-color:#bde23d;border:1px solid #86ad24;margin-bottom:12px;position:relative;}
+div.player {width:646px;height:527px;padding:13px 35px;background:#fff;border:1px solid #94bc31;}
+#mini {padding:2px;border:1px solid #ccc;height:480px;}
+div.player ul {height:40px;line-height:40px;margin-top:5px;}
+div.player ul li {float:left;margin-right:18px;}
+div.player ul li a {padding-left:30px;display:block;height:40px;font-size:14px;background:url(../i/icon.png) no-repeat;}
+div.player ul li a.fullscreen {background-position:-2px -4824px;width:28px;}
+div.player ul li a.reset {background-position:0 -4866px;width:28px;}
+div.player ul li a.recommend {background-position:-2px -4914px;width:70px;}
+div.player ul li a.copyurl {background-position:-2px -4964px;width:56px;}
+div.player ul li a.todiscuss {background-position:-4px -5014px;width:90px;}
+
+div.miniplayground dl.info,
+div.miniplayground dl.op {position:absolute;top:5px;left:726px;width:239px;height:554px;background:#fff;border:1px solid #94bc31;border-top:0;}
+div.miniplayground dl.info dt.title {height:42px;width:243px;margin:-5px -2px 0 -2px;background:url(../i/miniinfodt.jpg);}
+div.miniplayground dl.op dt.title {height:42px;width:243px;margin:-5px -2px 0 -2px;background:url(../i/miniinfodt2.jpg);}
+
+div.miniplayground dl.info dt.title a,
+div.miniplayground dl.op dt.title a {display:block;float:left;width:121px;height:42px;text-indent:-999px;overflow:hidden;}
+
+div.miniplayground dl.info dd,
+div.miniplayground dl.op dd {padding:7px 12px;color:#333;}
+div.miniplayground dl.info dd h2 {font-size:14px;font-weight:bold;}
+div.miniplayground dl.info dd dl,
+div.miniplayground dl.op dd dl {border-bottom:1px dashed #ccc;padding:5px 0;margin-top:5px;}
+div.miniplayground dl.info dd dt,
+div.miniplayground dl.op dd dt {line-height:22px;font-weight:bold;}
+div.miniplayground dl.info dd dd,
+div.miniplayground dl.op dd dd {padding:3px 0;}
+div.miniplayground dl.info dl.uploader dd {position:relative;padding-left:62px;overflow:hidden;min-height:56px;} 
+div.miniplayground dl.info div.avatar {width:48px;height:48px;padding:4px 6px 6px 4px;position:absolute;top:3px;left:0;background:url(../i/all.png) no-repeat scroll -188px -105px;}
+
+div.miniplayground dl.info p.misc {padding-left:130px;position:relative;height:18px;}
+div.miniplayground dl.info span.rating {display:block;width:45px;height:18px;line-height:18px;padding-right:70px;position:absolute;top:0;left:0;}
+div.miniplayground dl.info span.rating em {display:block;width:70px;height:11px;margin:3px 0 4px;background:url(../i/ministar.jpg) repeat-x 100% 0;position:absolute;top:0;right:0;}
+div.miniplayground dl.info span.rating em b {display:block;height:11px;background:url(../i/ministar.jpg) repeat-x 0 -15px;}
+
+dl.uploader dd p.nickname {font-size:14px;font-weight:bold;}
+dl.uploader dd form.subscribe,
+dl.uploader dd .subscribed {display:block;position:absolute;right:20px;top:3.5px;width:16px;height:16px;}
+dl.uploader dd .subscribed {background:url(../i/icon.png) no-repeat scroll -5px -4785px;text-indent:-999px;}
+
+dl.uploader dd form.subscribe input.submit {border:none;width:16px;height:16px;cursor:pointer;margin:0;padding:0;background:url(../i/icon.png) no-repeat scroll -5px -2136px;}
+dl.uploader dd form.subscribe input.submit:hover {
+background: url(http://www.gamepub.cn/theme/default/i/icon.png) no-repeat scroll -5px -2159px;
+}
+div.minidiscuss_outter {padding:5px;background-color:#dceda3;border:1px solid #86ad24;float:left;width:593px;margin-right:8px;}
+div.minidiscuss {border:1px solid #b6d765;background:#fff;padding:12px;}
+div.minidiscuss form.mydiscussion {position:relative;}
+div.minidiscuss form.mydiscussion dd textarea {width:556px;height:48px;}
+div.minidiscuss form.mydiscussion p {line-height:24px;padding:2px 0;color:#333;}
+div.minidiscuss form.mydiscussion .submit {position:absolute;top:83px;right:8px;}
+div.minidiscuss form.mydiscussion dt {font-size:14px;line-height:18px;padding:2px 0 3px;color:#333;position:relative;}
+div.minidiscuss form.mydiscussion dt a {position:absolute;top:2px;left:60px;display:block;height:18px;line-height:18px;font-size:12px;padding-left:18px;width:56px;background:url(../i/icon.png) no-repeat -6px -882px;}
+
+dl.discussions {margin-top:12px;}
+dl.discussions dd li.notice {position:relative;padding:31px 0 10px 67px;border-bottom:1px dashed #ccc;}
+dl.discussions dd div.avatar {width:48px;height:48px;padding:4px 6px 6px 4px;position:absolute;top:10px;left:0;background:url(../i/all.png) no-repeat scroll -188px -105px;}
+dl.discussions dd li h3 {position:absolute;top:10px;left:67px;font-weight:bold;font-size:14px;}
+dl.discussions dd div.bar {height:14px;line-height:14px;margin-top:5px;}
+dl.discussions dd div.info {width:170px;height:14px;line-height:14px;float:left;color:#999;}
+dl.discussions dd ul.op {width:260px;height:14px;line-height:14px;float:right;}
+dl.discussions dd ul.op li {float:right;width:auto;padding:0 4px;}
+dl.discussions dt {margin:3px 0;padding:6px 3px 2px;position:relative;font-weight:bold;color:#666;font-size:14px;border-bottom:1px solid #999;}
+dl.discussions dt a {position:absolute;right:3px;top:6px;font-weight:normal;color:#666;}
+dl.discussions dd div.content {font-size:14px;width:496px;overflow:hidden;}
+
+dl.minihot {float:left;width:360px;border:1px solid #86ad24;background:#fff;}
+dl.minihot dt {height:39px;line-height:39px;background:url(../i/icon.png) repeat-x 0 -5056px;padding:0 20px;font-size:14px;font-weight:bold;position:relative;}
+dl.minihot dt a {position:absolute;top:0;right:20px;font-weight:normal;}
+dl.minihot dd div.avatar {width:100px;height:75px;border:1px solid #ccc;padding:2px;position:absolute;top:5px;left:0;}
+dl.minihot dd {padding:12px;}
+dl.minihot dd li {padding:3px 0 3px 112px;position:relative;min-height:84px;}
+dl.minihot dd li p.nickname {font-size:14px;font-weight:bold;}

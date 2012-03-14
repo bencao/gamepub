@@ -1,0 +1,98 @@
+﻿#other_widgets dl.hottopics dd li {list-style:decimal inside none;line-height:24px;height:24px;font-size:13px;}
+
+#other_wrap {width:788px;margin:0 auto;}
+#other_wrap h2 {line-height:44px;font-size:18px;padding:0 24px;border-bottom:1px solid;}
+#other_wrap div.contents {min-height:750px;float:left;width:564px;padding:5px 12px;margin-top:16px;border-right:1px solid;}
+#other_wrap div.contents div.banner,
+#other_wrap div.contents div.client_banner {padding:4px;}
+#other_wrap div.contents div.banner img {width:549px;height:74px;}
+#other_wrap div.contents div.client_banner img {width:555px;height:256px;}
+#other_wrap div.contents ul.nav {border-bottom:1px solid;margin:5px 0;}
+#other_wrap div.contents ul.nav li {float:left;}
+#other_wrap div.contents ul.nav li a:link, 
+#other_wrap div.contents ul.nav li a:visited {display:block;line-height:34px;padding-right:40px;}
+#other_wrap div.contents ul.nav li.active a:link, 
+#other_wrap div.contents ul.nav li.active a:visited  {border-bottom:2px solid;}
+#other_wrap div.contents ul.clients li {padding:5px 0 5px 382px;position:relative;min-height:108px;border-bottom:1px dotted #b0b0b0;color:#443937;}
+#other_wrap div.contents ul.clients li div.image {width:370px;height:108px;position:absolute;top:5px;left:0;}
+#other_wrap div.contents ul.clients li div.image img {width:370px;height:108px;}
+#other_wrap div.contents ul.clients li p {line-height:18px;}
+#other_wrap div.contents ul.clients li p.name a:link,
+#other_wrap div.contents ul.clients li p.name a:visited {font-weight:bold;line-height:20px;}
+#other_wrap div.contents ul.clients li p.op {line-height:24px;margin:5px 0;}
+#other_wrap div.contents ul.clients li p.op a:link,
+#other_wrap div.contents ul.clients li p.op a:visited {display:block;float:left;width:60px;margin-right:20px;}
+#other_wrap div.contents form.search {border:1px solid;padding:5px 24px;line-height:24px;margin:10px 0;}
+#other_wrap div.contents form.search input.text200 {margin-left:10px;width:250px;}
+#other_wrap div.contents form.search input.submit {display:inline;margin-left:10px;}
+#other_wrap div.contents form.search p.options {padding-left:52px;}
+#other_wrap div.contents form.search p.options a:link,
+#other_wrap div.contents form.search p.options a:visited {padding:0 8px 0 5px;}
+#other_wrap div.contents form.search div.more label.title {padding-right:19px;}
+#other_wrap div.contents form.search div.more input.text200 {margin-left:3px;}
+#other_wrap div.contents form.search div.more input.checkbox {margin-right:8px;}
+#other_wrap div.contents form.search div.more select {margin:0 15px 0 3px;}
+#other_wrap div.contents form.search div.more a.toggle_back {margin-left:20px;}
+#other_wrap div.contents div.filter {padding:5px 8px;position:relative;height:18px;}
+#other_wrap div.contents div.filter a.say {position:absolute;right:0;top:6px;display:block;padding-left:25px;}
+#other_wrap div.contents div.client_intro {padding:8px;}
+#other_wrap div.contents div.client_intro dl.brief {width:325px;float:left;padding-right:8px;}
+#other_wrap div.contents div.client_intro dl.brief dt {font-weight:bold;}
+#other_wrap div.contents div.client_intro div.detail {width:206px;float:left;padding-left:8px;border-left:1px dotted;}
+#other_wrap div.contents div.client_intro div.detail p {line-height:20px;}
+#other_wrap div.contents div.client_intro div.detail p.button {margin-top:10px;}
+#wendas {border-top:1px solid #f0f0f0;}
+#wendas li.wenda {padding:5px 10px;border-bottom:1px dashed #ccc;}
+#wendas li.wenda p.title {font-size:14px;padding-bottom:5px;}
+#wendas li.wenda p.title a {text-decoration:underline;}
+#wendas li.wenda div.info {position:relative;padding-top:5px;line-height:20px;height:20px;}
+#wendas li.wenda div.info span.award {position:absolute;display:block;padding-left:20px;height:20px;background:url(../i/icon.png) no-repeat -3px -1907px;right:0;top:5px;color:#b8510c;}
+#other_widgets {float:left;width:175px;margin-top:10px;padding:10px 12px;}
+#other_widgets .widget {margin-bottom:10px;}
+#other_widgets dl.feedback {border-top:1px solid;padding:3px;}
+#other_widgets dl.intro dt,
+#other_widgets dl.dashboard dt,
+#other_widgets dl.moresearch dt,
+#other_widgets dl.hottopics dt,
+#other_widgets dl.recommend dt {position:relative;margin-bottom:3px;height:16px;padding:2px 12px 10px;font-weight:bold;}
+#other_widgets dl.intro dd ul li,
+#other_widgets dl.dashboard dd ul li {list-style:circle inside none;}
+#other_widgets dl.moresearch dd a:link,
+#other_widgets dl.moresearch dd a:visited {padding-left:25px;}
+#other_widgets dl.moresearch dd ul li {line-height:24px;font-size:13px;}
+#other_widgets dl.recommend dd li {position:relative;padding:60px 4px 0;float:left;width:50px;}
+#other_widgets dl.recommend div.avatar {position:absolute;width:48px;height:48px;top:3px;left:0;padding:4px 6px 6px 4px;background:url(../i/all.png) no-repeat scroll -188px -105px;}
+#other_widgets dl.recommend p.nickname {text-align:center;width:50px;height:18px;overflow:hidden;}
+#other_widgets dl.recommend dt a.toggle {position:absolute;right:8px;top:2px;font-weight:normal;}
+
+#other_widgets dl.intro dt,
+#other_widgets dl.dashboard dt,
+#other_widgets dl.moresearch dt,
+#other_widgets dl.hottopics dt,
+#other_widgets dl.recommend dt {background:url(../i/all.png) no-repeat scroll -444px -233px;}
+
+#other_widgets dl.moresearch dd a:link,
+#other_widgets dl.moresearch dd a:visited {background:url(../i/icon.png) no-repeat scroll 0 -2524px;}
+#other_wrap div.filter a.say {background:url(../i/icon.png) no-repeat scroll 0 -2491px;}
+
+/* other color */
+
+#other_wrap div.contents div.client_intro {color:#443937;}
+
+#other_wrap {background-color:#fff;}
+#other_wrap h2 {background-color:#e0e0e0;border-color:#adadad;}
+#other_wrap div.contents,
+#other_wrap div.contents ul.nav,
+#other_widgets dl.feedback {border-color:#b0b0b0;}
+#other_wrap div.contents ul.nav li.active a:link,
+#other_wrap div.contents ul.nav li.active a:visited {color:#000;border-color:#b8510c;}
+#other_wrap div.contents ul.nav li.active a:hover {text-decoration:none;}
+#other_wrap div.contents form.search {background-color:#f4f4f4;border-color:#d4d4d4;}
+#other_widgets dl.intro dt,
+#other_widgets dl.dashboard dt,
+#other_widgets dl.moresearch dt,
+#other_widgets dl.hottopics dt,
+#other_widgets dl.recommend dt {color:#fff;}
+#other_widgets dl.feedback dd {color:#999;}
+#other_widgets dl.recommend dt a.toggle {color:#fff;}
+#other_widgets dl.recommend dt a.toggle:hover {color:#ddf;}

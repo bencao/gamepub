@@ -1,0 +1,56 @@
+#self_designs dt,
+#settings_self_design dt,
+#template_designs dt {border-bottom:1px solid #e6e6e6;line-height:24px;font-weight:bold;}
+#self_designs dt a,
+#settings_self_design dt a,
+#template_designs dt a {display:block;line-height:24px;}
+#self_designs li,
+#template_designs li {width:110px;height:105px;margin:10px 15px;float:left;position:relative;}
+#self_designs li form,
+#template_designs li form {padding:2px;background:#fff;}
+#self_designs li a.apply:link,
+#self_designs li a.apply:visited,
+#template_designs li a.apply:link,
+#template_designs li a.apply:visited {display:block;height:75px;padding:2px;background-color:#fff;border:1px solid #ccc;}
+#self_designs li.active form,
+#template_designs li.active form {background-color:#b8510c;}
+#self_designs li p,
+#template_designs li p {line-height:20px;height:20px;width:90px;padding:0 10px;text-align:center;overflow:hidden;}
+#self_designs li a.delete:link,
+#self_designs li a.delete:visited,
+#template_designs li a.delete:link,
+#template_designs li a.delete:visited {display:block;margin:2px;height:16px;line-height:16px;width:16px;text-align:center;position:absolute;bottom:0;right:0;}
+#self_designs li a.delete:hover,
+#template_designs li a.delete:hover {text-decoration:none;}
+#settings_self_design div.op {clear:both;position:relative;height:24px;padding:10px 0;}
+#settings_self_design {position:relative;}
+#settings_self_design dd div.bg_panel {border-bottom:1px solid #f4d779;position:relative;min-height:90px;}
+#settings_self_design dd div.bg_panel p {line-height:30px;}
+#settings_self_design dd div.bg_panel a:link,
+#settings_self_design dd div.bg_panel a:visited {position:absolute;top:6px;width:60px;height:45px;border:2px solid #ddd;}
+#settings_self_design dd div.bg_panel a.do_not_show_bg {right:75px;}
+#settings_self_design dd div.bg_panel a.show_bg {right:5px;}
+#settings_self_design dd div.bg_panel a:link img,
+#settings_self_design dd div.bg_panel a:visited img {width:100%;height:100%;}
+#settings_self_design dd div.bg_panel a.active:link,
+#settings_self_design dd div.bg_panel a.active:visited {border-color:#444;}
+#settings_self_design dd div.color_panel {padding:10px 0;height:245px;position:relative;}
+#settings_self_design dd div.color_panel p {line-height:30px;}
+#settings_self_design dd div.color_panel p label {width:50px;display:block;float:left;text-align:right;padding:0 5px;}
+#settings_self_design dd div.color_panel p input.text {width:60px;display:block;float:left;padding:4px;margin:2px 0;}
+#settings_self_design dd div.color_panel div.circle {width:195px;height:195px;position:absolute;right:5px;top:10px;}
+#settings_self_design ul.nav_pane {width:132px;position:absolute;left:60px;top:164px;}
+#settings_self_design ul.nav_pane li {display:block;width:20px;height:20px;padding:1px;float:left;}
+#settings_self_design ul.nav_pane a:link,
+#settings_self_design ul.nav_pane a:visited {display:block;width:20px;height:20px;}
+#settings_self_design input.submit {position:absolute;top:10px;left:100px;}
+#settings_self_design input.restoredefault {position:absolute;top:10px;left:265px;}
+#theme_roller {position:absolute;top:-33px;left:0;background:#fff;z-index:10000;width:450px;border:1px solid #ccc;outline:1px solid #fff;}
+#theme_roller div.theme_title {padding:5px 10px;cursor: move;background: url(/theme/default/i/icon.png) repeat-x 0px -2714px;color: #444;font-size: 12px;font-weight: bold;position:relative;_margin-top:-2px;}
+#theme_roller div.theme_title a:link,
+#theme_roller div.theme_title a:visited {font-weight:normal;position:absolute;top:4px;right:40px;}
+#theme_roller div.theme_title a.close:link,
+#theme_roller div.theme_title a.close:visited {right:10px;}
+#theme_roller div.theme_body {padding:5px 10px;}
+#contents{_z-index:51;}
+#widgets{_z-index:1;}

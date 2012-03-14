@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /main/
+Disallow: /mplayer/
+Disallow: /register/

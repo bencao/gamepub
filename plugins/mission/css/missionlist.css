@@ -1,0 +1,30 @@
+#contents div.mymissions {position:absolute;top:-26px;right:-106px;width:70px;height:24px;*z-index:99;}
+#contents div.mymissions div.bg {position:absolute;top:5px;left:0;background:url(/theme/default/i/icon.png) no-repeat -6px -829px;width:17px;height:16px;_background-image:url(/theme/default/i/icon_e6.png);}
+#contents div.mymissions a {position:absolute;width:50px;height:14px;line-height:14px;padding:5px 0 5px 20px;top:0;left:0;padding:7px 0 3px 20px\9;}
+#missions {width:602px;height:532px;background:url(/plugins/mission/images/mbg.png);position:relative;_background-image:url(/plugins/mission/images/mbg1.png);}
+#missions a.close {display:block;position:absolute;top:20px;right:20px;width:30px;height:30px;}
+#missions a.next,#missions a.prev {display:block;position:absolute;bottom:11px;width:42px;height:16px;padding:5px;}
+#missions a.prev {right:100px;}
+#missions a.next {right:45px;}
+#missions span.cp {display:block;position:absolute;width:90px;height:16px;bottom:11px;right:250px;padding:5px;color:#333;}
+#missions ul {position:absolute;width:540px;height:420px;top:64px;left:30px;}
+#missions ul li {font-size:14px;}
+#missions ul li a:link,
+#missions ul li a:visited {display:block;color:#666;padding:8px 60px 8px 8px;text-decoration:none;position:relative;text-align:left;}
+#missions ul li a:hover {background-color:#b8df74;}
+#missions ul li strong {font-weight:bold;}
+#missions ul li span.desc {position:absolute;left:110px;}
+#missions ul li span.status {position:absolute;top:8px;right:8px;color:#b8510c;}
+#missions ul li a.fin span.status {color:#6e7f02;}
+div.smission {width:350px;height:286px;background:url(/plugins/mission/images/smbg.png);position:relative;padding:15px;color:#666;text-align:left;_background-image:url(/plugins/mission/images/smbg1.png);}
+div.smission a.close,
+div.smission a.closing {display:block;position:absolute;top:16px;right:20px;width:20px;height:20px;*z-index:1;}
+div.smission a.accept,
+div.smission a.confirm {position:absolute;right:34px;bottom:30px;}
+div.smission h2 {font-size:14px;font-weight:bold;text-align:center;padding:10px;*position:relative;*z-index:0;}
+div.smission h3 {font-weight:bold;padding:8px;}
+div.smission p {padding:0 8px;}
+#contents div.mymissions div.pop {position:absolute;width:123px;height:27px;border:1px solid #cbd1a8;background:#fefbd8;top:-33px;left:5px;*z-index:99;}
+#contents div.mymissions div.pop div.pointer {position:absolute;top:27px;left:25px;width:11px;height:8px;background:url(/theme/default/i/icon.png) no-repeat -6px -915px;_background-image:url(/theme/default/i/icon_e6.png);}
+#contents div.mymissions div.pop p {padding:3px 0 3px 10px;width:90px;height:21px;overflow:hidden;line-height:21px;color:#666;}
+#contents div.mymissions div.pop a {position:absolute;width:12px;height:12px;left:105px;top:7px;display:block;padding:0;font-weight:bold;color:#f28b12;}

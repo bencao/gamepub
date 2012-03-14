@@ -1,0 +1,8 @@
+#header_outter_wrap{opacity:0.8;filter:alpha(opacity=80);}
+body{background:#aedaff url(bg.jpg) repeat-x scroll center top;}
+#notice_form{background:url(nfbg.jpg);}
+a.outbound{color:#fff;}
+#wrap{background-color:#ACBFD7;}
+#widgets div.split{border-top-color:#b6c7dc;}#widgets div.sub_info a:link,#widgets div.sub_info a:visited{border-left-color:#b6c7dc;}#widgets dl.grid-6 dd p.op{color:#b6c7dc;}
+#w_nav li{border-bottom-color:#b6c7dc;background-color:#9aabc1;}
+#widgets div.group_info div.avatar{border-color:#c3d1e2;}#widgets div.group_info dl.detail dt a:link, #widgets div.group_info dl.detail dt a:visited{border-top-color:#c3d1e2;border-bottom-color:#606a78}#widgets div.group_info dl.detail dt{border-color:#8694a7;}

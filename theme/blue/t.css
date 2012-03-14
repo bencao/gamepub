@@ -1,0 +1,8 @@
+#header_outter_wrap{opacity:0.8;filter:alpha(opacity=80);}
+body{background:#3e107c url(bg.jpg) repeat-x fixed center top;}
+#notice_form{background:url(nfbg.jpg);}
+a.outbound{color:#ccc;}
+#wrap{background-color:#7774D7;}
+#widgets div.split{border-top-color:#8886dc;}#widgets div.sub_info a:link,#widgets div.sub_info a:visited{border-left-color:#8886dc;}#widgets dl.grid-6 dd p.op{color:#8886dc;}
+#w_nav li{border-bottom-color:#8886dc;background-color:#6b68c1;}
+#widgets div.group_info div.avatar{border-color:#9d9be2;}#widgets div.group_info dl.detail dt a:link, #widgets div.group_info dl.detail dt a:visited{border-top-color:#9d9be2;border-bottom-color:#424078}#widgets div.group_info dl.detail dt{border-color:#5c5aa7;}
